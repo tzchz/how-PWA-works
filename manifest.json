@@ -1,9 +1,9 @@
 {
-  "name": "App_name",
-  "short_name": "App_short_name",
+  "name": "PHPlayer",
+  "short_name": "PHPlayer",
   "start_url": "/",
   "display": "standalone",
-  "description": "App_description",
+  "description": "https://github.com/tzchz/PHPlayer",
   "icons": [
     {
       "src": "https://assets.060418.best/icon.png",
